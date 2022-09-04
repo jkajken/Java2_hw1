@@ -1,0 +1,5 @@
+package org.example;
+public enum ToyCategories {
+    DOLLS,ELECTRONIC_TOYS,EDUCATIONAL_TOYS,
+    CARS_RADIO_CONTROLLED,ANIMALS,CONSTRUCTION_TOYS
+}
