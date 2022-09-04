@@ -18,7 +18,7 @@ public class Main {
 
         String[] movement2 = {"Spin","Fly"};
         Cars toyCar1 = new Cars("Albus300",6000,toyShop,ToyCategories.CARS_RADIO_CONTROLLED,
-                "Physical activity",movement2,Material.polycarbonate_PC, Color.GRAY);
+                "Physical activity",movement2,Material.polycarbonate_PC, Color.GREY);
         System.out.println(toyCar1.getInfo());
         System.out.println("Sounds toy can make: ");
         toyCar1.makeVoice("vroom vroom");
